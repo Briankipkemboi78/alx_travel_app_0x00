@@ -1,1 +1,1 @@
-This is a duplicate of travel app
+This is a replica of travel app
